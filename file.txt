@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 created from git branch 835
 no changes
+=======
+created from git branch 11
+>>>>>>> main
